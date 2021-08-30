@@ -1,0 +1,51 @@
+.blue-whith-border {
+	background: blue;
+	border: 2px dashed white;
+	margin-bottom: 50px;
+	width: 200px;
+	margin-bottom: 50px;
+	padding: 20px 50px 10px 40px;
+	float: left;
+}
+
+#second-paragraph {
+
+	background: red;
+	color: yellow;
+	/*margin: 50px;*/
+	/*margin-left: 30px;
+	margin-right: 50px;
+	margin-top: 100px;
+	margin-bottom: 150px;*/
+	/*margin: 50px 100px 150px 30px;*/
+	width: 200px;
+	margin-bottom: 50px;
+	padding: 20px 50px 10px 40px;
+	float: right;
+
+}
+.clear_float{
+	clear: both;
+}
+
+body {
+
+	/*width: 50%;*/
+}
+
+#my-div * {
+	border:2px solid green;
+
+}
+
+ol li {
+	background: green;
+}
+
+h1 + ol {
+	color: red;
+}
+div p:nth-of-type(3){
+	background: gray;
+	color: white;
+}

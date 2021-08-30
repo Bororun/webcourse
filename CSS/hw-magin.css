@@ -1,0 +1,13 @@
+#div1 {
+
+	background: yellow;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	margin-right: 200px;
+} 
+
+#div2 {
+	background: green;
+	margin: 20px 50px;
+}
